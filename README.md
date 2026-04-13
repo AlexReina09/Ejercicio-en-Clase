@@ -104,3 +104,26 @@ ip.src == 172.28.0.1
 Datos descargados
 Respuestas HTTP
 Segmentos TCP del archivo
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Capturas De Pantalla Del Codigo Ejecutado En Google Colab:
+
+<img width="958" height="1032" alt="Captura de pantalla 2026-04-12 141634" src="https://github.com/user-attachments/assets/b334fe78-232c-4477-ba91-90b3d6ff2514" />
+
+<img width="976" height="1047" alt="Captura de pantalla 2026-04-12 144113" src="https://github.com/user-attachments/assets/0b8423fb-a9b0-429c-9059-8c2f0599409a" />
+
+<img width="967" height="1033" alt="Captura de pantalla 2026-04-12 144358" src="https://github.com/user-attachments/assets/879176a8-479a-49ac-b328-c52e31201e48" />
+
+<img width="955" height="1028" alt="Captura de pantalla 2026-04-12 213345" src="https://github.com/user-attachments/assets/aa145839-e31b-447d-bd16-f8395cd74d94" />
+
+<img width="966" height="913" alt="Captura de pantalla 2026-04-12 214323" src="https://github.com/user-attachments/assets/d44c4acf-1ac4-4183-90d7-381c21eca50d" />
+
+<img width="851" height="907" alt="Captura de pantalla 2026-04-12 220300" src="https://github.com/user-attachments/assets/aab58230-b259-4806-9f64-2f3f96b61a69" />
+
+Wiresharek:
+
+<img width="1204" height="942" alt="Captura de pantalla 2026-04-12 224820" src="https://github.com/user-attachments/assets/4dff9fd1-47f1-4ada-9335-73d930198788" />
+
